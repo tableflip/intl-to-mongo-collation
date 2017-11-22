@@ -1,11 +1,11 @@
 {
   "name": "intl-to-mongo-collation",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert Intl Collator opts to mongo collation opts",
   "main": "index.js",
-	"scripts": {
-		"test": "standard && ava"
-	},
+  "scripts": {
+    "test": "standard && ava"
+  },
   "author": "olizilla <oli@tableflip.io>",
   "license": "ISC",
   "devDependencies": {
